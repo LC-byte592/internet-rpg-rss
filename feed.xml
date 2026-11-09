@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>My GitHub RSS Feed</title>
+  <link>https://github.io</link>
+  <description>Latest updates from my project</description>
+  <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
+  
+  <item>
+    <title>My First Post</title>
+    <link>https://github.io</link>
+    <description>This is the summary or full content of my first update.</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
