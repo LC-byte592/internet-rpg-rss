@@ -8,18 +8,21 @@
   
   <item>
     <title>My First Post</title>
+    <guid>internet-rpg-update-001</guid>
     <link>https://github.io</link>
     <description>This is the summary or full content of my first update.</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
   </item>
     <item>
     <title>My Second Post</title>
+      <guid>internet-rpg-update-002</guid>
     <link>https://github.io</link>
     <description>This is the text for my seconfd update.</description>
     <pubDate>Mon, 09 Nov 2026 22:00:00 GMT</pubDate>
   </item>
   <item>
     <title>My third Post</title>
+    <guid>internet-rpg-update-003</guid>
     <link>https://github.io</link>
     <description>This is the text for my thirfbjsdafbjsdbd update ig?.</description>
     <pubDate>Mon, 09 Nov 2026 22:00:03 GMT</pubDate>
