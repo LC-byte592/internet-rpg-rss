@@ -8,10 +8,34 @@
   <lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
   
   <item>
-    <title>My First Post</title>
+    <title>Mailbox System Update – RSS Integration</title>
     <guid>internet-rpg-update-001</guid>
     <link>https://github.io</link>
-    <description>This is the summary or full content of my first update.</description>
+    <description>Hello, Explorer!
+
+You may have noticed something new in your mailbox.
+
+The Internet RPG mailbox is now connected to an external RSS feed!
+
+This means announcements and updates can now be delivered directly to your in-game inbox without requiring a manual update to the userscript.
+
+How it works:
+
+New announcements are retrieved automatically.
+
+Previously imported messages are tracked to prevent duplicates.
+
+New mail can trigger notifications.
+
+Some messages may include claimable XP or Gold attachments.
+
+This message itself was delivered through the new RSS integration!
+
+Consider this a successful system test.
+
+Happy exploring!
+
+— Internet RPG Development Team</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
     <rpg:reward type="xp">100</rpg:reward>
   </item>
