@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  xmlns:rpg="https://lc-byte592.github.io/internet-rpg-rss">
+<rss version="2.0" xmlns:rpg="https://lc-byte592.github.io/internet-rpg-rss">
 <channel>
   <title>My GitHub RSS Feed</title>
   <link>https://github.io</link>
