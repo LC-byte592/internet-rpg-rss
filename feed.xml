@@ -39,21 +39,34 @@ Happy exploring!
     <rpg:reward type="xp">100</rpg:reward>
   </item>
     <item>
-    <title>My Second Post</title>
+    <title>Internet RPG – Beta 4 Released!</title>
       <guid>internet-rpg-update-002</guid>
     <link>https://github.io</link>
-    <description>This is the text for my seconfd update.</description>
+    <description>The Exploration Update is here!
+
+Internet RPG Beta 4 has officially launched!
+
+This update introduces a new layer of exploration, alongside improvements to the game's existing systems.
+
+What's new?
+
+Website exploration tracking and exploration achievements.
+
+The new mailbox system.
+
+RSS-powered announcements and news updates.
+
+Claimable XP and Gold rewards through mail attachments.
+
+New data management options, including Export, Import and Reset.
+
+Thank you for continuing to use Internet RPG!
+
+Enjoy exploring the web. There's more to come.
+
+— Internet RPG Development Team</description>
     <pubDate>Mon, 09 Nov 2026 22:00:00 GMT</pubDate>
-      <rpg:reward type="gold">50</rpg:reward>
+      <rpg:reward type="xp">100</rpg:reward>
   </item>
-  <item>
-    <title>My third Post</title>
-    <guid>internet-rpg-update-003</guid>
-    <link>https://github.io</link>
-    <description>This is the text for my thirfbjsdafbjsdbd update ig?.</description>
-    <pubDate>Mon, 09 Nov 2026 22:00:03 GMT</pubDate>
-  </item>
-
-
 </channel>
 </rss>
